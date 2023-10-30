@@ -23,8 +23,7 @@
 5. JeanHeyd Meneide: [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++) — История реализации [#embed](https://en.cppreference.com/w/c/preprocessor/embed) в gcc и clang для C и C++.
 6. Bartłomiej Filipek: [How to use std::span from C++20](https://www.cppstories.com/2023/span-cpp20/) — Обзор [std::span](https://en.cppreference.com/w/cpp/container/span) (C++20), и как он может упростить код.
 7. Conan: [Conan launches metadata files management](https://blog.conan.io/2023/10/24/Conan-launches-metadata-files.html) — О распространении метаданных с помощью conan.
-8. Daniel Lemire: [Appending to an std::string character-by-character: how does the capacity grow?](https://lemire.me/blog/2023/10/23/appending-to-an-stdstring-character-by-character-how-does-the-capacity-grow/) — О низкоуровневых деталях реализации [std::string](https://en.cppreference.com/w/cpp/string/basic_string) в gcc и clang: как в них растет capacity?
-9. Raymond Chen: [How do I add a non-copyable, non-movable object to a std::map or std::unordered_map?](https://devblogs.microsoft.com/oldnewthing/20231023-00/?p=108916) — О том, как поместить некопируемый неперемещаемый объект в ассоциативный контейнер.
+8. Raymond Chen: [How do I add a non-copyable, non-movable object to a std::map or std::unordered_map?](https://devblogs.microsoft.com/oldnewthing/20231023-00/?p=108916) — О том, как поместить некопируемый неперемещаемый объект в ассоциативный контейнер.
    
 ## 📺 Видео и доклады
 
